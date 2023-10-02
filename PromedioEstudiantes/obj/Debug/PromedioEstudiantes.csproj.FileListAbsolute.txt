@@ -1,0 +1,7 @@
+C:\Users\David Alvarez\Desktop\Tarea2\PromedioEstudiantes\bin\Debug\PromedioEstudiantes.exe.config
+C:\Users\David Alvarez\Desktop\Tarea2\PromedioEstudiantes\bin\Debug\PromedioEstudiantes.exe
+C:\Users\David Alvarez\Desktop\Tarea2\PromedioEstudiantes\bin\Debug\PromedioEstudiantes.pdb
+C:\Users\David Alvarez\Desktop\Tarea2\PromedioEstudiantes\obj\Debug\PromedioEstudiantes.csproj.AssemblyReference.cache
+C:\Users\David Alvarez\Desktop\Tarea2\PromedioEstudiantes\obj\Debug\PromedioEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\David Alvarez\Desktop\Tarea2\PromedioEstudiantes\obj\Debug\PromedioEstudiantes.exe
+C:\Users\David Alvarez\Desktop\Tarea2\PromedioEstudiantes\obj\Debug\PromedioEstudiantes.pdb
